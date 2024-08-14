@@ -6,14 +6,14 @@ import fs from 'fs'
 
 //OwnerShip
 global.owner = [
-  [process.env.OWNER_NUMBER || '255734980103', process.env.OWNER_NAME || 'lazack28', true],
-  ['255779679079', 'lazack 28', true]
+  [process.env.OWNER_NUMBER || '254740007567', process.env.OWNER_NAME || 'Marisel', true],
+  ['254740007567', 'Marisel', true]
 ]
 global.mods = []
 global.prems = []
 
-global.author = process.env.OWNER_NAME || '𝐋𝐀𝐙𝐀𝐂𝐊-𝐌𝐃 v 2'
-global.botname = process.env.BOT_NAME || '𝙇𝘼𝙕𝘼𝘾𝙆-𝙈𝘿'
+global.author = process.env.OWNER_NAME || '𝐌𝐀𝐑𝐈𝐒𝐄𝐋'
+global.botname = process.env.BOT_NAME || '𝐌𝐄𝐑𝐋𝐈𝐍-𝐌𝐃'
 global.oname = author
 global.bname = botname
 
@@ -25,12 +25,12 @@ global.gclink = process.env.GROUP_LINK || 'https://chat.whatsapp.com/IIpL6gf6dcq
 global.shizokeys = 'shizo'
 
 //Sticker Watermarks
-global.packname = process.env.BOT_NAME || '𝐋𝐀𝐙𝐀𝐂𝐊-𝐌𝐃 🥵'
-global.stkpack = process.env.BOT_NAME || '𝙇𝘼𝙕𝘼𝘾𝙆-𝙈𝘿 🥵'
-global.stkowner = process.env.OWNER_NAME || '© lazack md v2'
+global.packname = process.env.BOT_NAME || '𝐌𝐄𝐑𝐋𝐈𝐍-𝐌𝐃 '
+global.stkpack = process.env.BOT_NAME || '𝐌𝐄𝐑𝐋𝐈𝐍-𝐌𝐃 '
+global.stkowner = process.env.OWNER_NAME || '© Merlin md '
 
 //Watermark
-global.maker = process.env.MAKER || 'Made with Lazack'
+global.maker = process.env.MAKER || 'Made with Crew'
 
 //global emojis
 global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
@@ -56,7 +56,7 @@ global.replitHost = 0
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['255734980103','255734980103']
+global.mods = ['254740007567','254740007567']
 global.prems = ['255734980103','255734980103']
 global.allowed = ['255734980103','255734980103']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
